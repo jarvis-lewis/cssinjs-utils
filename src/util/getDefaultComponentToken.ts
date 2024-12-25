@@ -1,4 +1,4 @@
-import type { TokenType } from '@ant-design/cssinjs';
+import type { TokenType } from '@sryd/cssinjs';
 import { merge as mergeToken } from './statistic';
 import type { GetDefaultToken, GetDefaultTokenFn } from './genStyleUtils';
 import type { GlobalToken, TokenMap, TokenMapKey } from '../interface';

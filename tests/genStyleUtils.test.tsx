@@ -3,7 +3,7 @@ import { render, renderHook } from '@testing-library/react';
 
 import { genStyleUtils } from '../src';
 import type { CSSVarRegisterProps, SubStyleComponentProps } from '../src/util/genStyleUtils';
-import { createCache, StyleProvider } from '@ant-design/cssinjs';
+import { createCache, StyleProvider } from '@sryd/cssinjs';
 
 interface TestCompTokenMap {
   TestComponent: object;

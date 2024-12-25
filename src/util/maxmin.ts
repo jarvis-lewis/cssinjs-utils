@@ -1,4 +1,4 @@
-import { unit } from '@ant-design/cssinjs';
+import { unit } from '@sryd/cssinjs';
 
 function genMaxMin(type: 'css' | 'js') {
   if (type === 'js') {

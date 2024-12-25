@@ -1,4 +1,4 @@
-import type { Theme, TokenType } from '@ant-design/cssinjs';
+import type { Theme, TokenType } from '@sryd/cssinjs';
 
 import type { OverrideTokenMap, TokenMap, GlobalToken } from '../interface';
 

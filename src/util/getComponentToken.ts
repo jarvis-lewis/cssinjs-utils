@@ -6,7 +6,7 @@ import type {
   ComponentToken,
   GlobalToken,
 } from '../interface';
-import type { TokenType } from '@ant-design/cssinjs';
+import type { TokenType } from '@sryd/cssinjs';
 
 function getComponentToken<
   CompTokenMap extends TokenMap,

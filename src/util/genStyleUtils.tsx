@@ -1,8 +1,8 @@
 import React from 'react';
 
-import type { CSSInterpolation, CSSObject, TokenType } from '@ant-design/cssinjs';
+import type { CSSInterpolation, CSSObject, TokenType } from '@sryd/cssinjs';
 
-import { token2CSSVar, useCSSVarRegister, useStyleRegister } from '@ant-design/cssinjs';
+import { token2CSSVar, useCSSVarRegister, useStyleRegister } from '@sryd/cssinjs';
 
 import type {
   ComponentTokenKey,

@@ -1,4 +1,4 @@
-import type { TokenType } from '@ant-design/cssinjs';
+import type { TokenType } from '@sryd/cssinjs';
 
 export type TokenMap = Record<PropertyKey, any>;
 
